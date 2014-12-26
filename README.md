@@ -15,4 +15,4 @@ HOWTO
 =====
 Build with ./build.sh, copy to usb-stick with dd. Then create an additional partition on that usb stick, format with ext{2,3,4}, and give it the label 'persistent'. All changes that are made during usage are stored as cow on that partition.
 
-Alternative this should also work with a cd/dvd and additional usb-stick.
+Alternativly this should also work with a cd/dvd and additional usb-stick.
