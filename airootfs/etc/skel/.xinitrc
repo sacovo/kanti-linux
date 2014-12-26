@@ -1,0 +1,1 @@
+/home/sandro/workspace/kanti-linux/airootfs/etc/skel/.dotifles/X/xinitrc.symlink

@@ -1,0 +1,1 @@
+/home/sandro/workspace/kanti-linux/airootfs/etc/skel/.dotifles/zsh/zshrc.symlink

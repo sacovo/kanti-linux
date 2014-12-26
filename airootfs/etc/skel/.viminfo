@@ -1,0 +1,222 @@
+# Diese viminfo-Datei wurde von Vim 7.4 generiert.
+# Sie können sie verändern, wenn Sie vorsichtig vorgehen!
+
+# Wert von 'encoding', als diese Datei geschrieben wurde
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# Letztes Suchmuster:
+~MSle0~/chro
+
+# Letzte ersetzte Zeichenkette:
+$
+
+# Befehlszeile Geschichte (neueste bis älteste):
+:wq
+:q
+:w
+
+# Suchausdruck Geschichte (neueste bis älteste):
+?/chro
+?/jm
+
+# Ausdruck Geschichte (neueste bis älteste):
+
+# Eingabe-Zeile Geschichte (neueste bis älteste):
+
+# Eingabe-Zeile Geschichte (neueste bis älteste):
+
+# Register:
+""0	LINE	0
+	chromium-pepper-flash
+"1	LINE	0
+	chromium-pepper-flash
+"2	LINE	0
+	[herecura-stable]
+	Server = http://repo.herecura.be/herecura-stable/$arch
+"3	LINE	0
+	[herecura-stable]
+	# additional apps not found in community
+	#SigLevel = Optional TrustAll
+	Server = http://repo.herecura.be/herecura-stable/$arch
+"4	LINE	0
+	#SigLevel = Optional TrustAll
+"5	LINE	0
+	jmtpfs
+"6	LINE	0
+	[archlinuxgr-any]
+	SigLevel = Optional TrustAll
+	Server = http://archlinuxgr.tiven.org/archlinux/any
+
+# Datei-Marken:
+'0  119  7  /home/sandro/workspace/kanti-linux/packages.both
+'1  4  31  /home/sandro/workspace/kanti-linux/efiboot/loader/entries/archiso-x86_64-cd.conf
+'2  1  0  /home/sandro/workspace/kanti-linux/syslinux/archiso_sys64.cfg
+'3  8  0  /home/sandro/workspace/kanti-linux/syslinux/archiso_sys32.cfg
+'4  5  85  /home/sandro/workspace/kanti-linux/efiboot/loader/entries/archiso-x86_64-usb.conf
+'5  1  0  /home/sandro/workspace/kanti-linux/efiboot/loader/loader.conf
+'6  9  84  /home/sandro/workspace/kanti-linux/syslinux/archiso_sys32.cfg
+'7  9  84  /home/sandro/workspace/kanti-linux/syslinux/archiso_sys64.cfg
+'8  12  0  /home/sandro/workspace/kanti-linux/syslinux/archiso_pxe64.cfg
+'9  2  0  /home/sandro/workspace/kanti-linux/syslinux/archiso.cfg
+
+# Geschichte (neueste zuerst):
+-'  119  7  /home/sandro/workspace/kanti-linux/packages.both
+-'  117  0  /home/sandro/workspace/kanti-linux/packages.both
+-'  1  0  /home/sandro/workspace/kanti-linux/packages.both
+-'  4  31  /home/sandro/workspace/kanti-linux/efiboot/loader/entries/archiso-x86_64-cd.conf
+-'  1  0  /home/sandro/workspace/kanti-linux/efiboot/loader/entries/archiso-x86_64-cd.conf
+-'  1  0  /home/sandro/workspace/kanti-linux/syslinux/archiso_sys64.cfg
+-'  8  0  /home/sandro/workspace/kanti-linux/syslinux/archiso_sys32.cfg
+-'  1  0  /home/sandro/workspace/kanti-linux/syslinux/archiso_sys32.cfg
+-'  5  85  /home/sandro/workspace/kanti-linux/efiboot/loader/entries/archiso-x86_64-usb.conf
+-'  1  0  /home/sandro/workspace/kanti-linux/efiboot/loader/loader.conf
+-'  9  84  /home/sandro/workspace/kanti-linux/syslinux/archiso_sys32.cfg
+-'  9  84  /home/sandro/workspace/kanti-linux/syslinux/archiso_sys64.cfg
+-'  12  0  /home/sandro/workspace/kanti-linux/syslinux/archiso_pxe64.cfg
+-'  1  0  /home/sandro/workspace/kanti-linux/syslinux/archiso_pxe64.cfg
+-'  2  0  /home/sandro/workspace/kanti-linux/syslinux/archiso.cfg
+-'  1  0  /home/sandro/workspace/kanti-linux/syslinux/archiso.cfg
+-'  91  0  /home/sandro/workspace/kanti-linux/pacman.conf
+-'  1  0  /home/sandro/workspace/kanti-linux/pacman.conf
+-'  92  53  /home/sandro/workspace/kanti-linux/pacman.conf
+-'  71  0  /home/sandro/workspace/kanti-linux/packages.both
+-'  22  57  /home/sandro/workspace/kanti-linux/airootfs/root/customize_airootfs.sh
+-'  1  0  /home/sandro/workspace/kanti-linux/airootfs/root/customize_airootfs.sh
+-'  3  0  /home/sandro/workspace/kanti-linux/airootfs/etc/systemd/system/getty@tty1.service.d/autologin.conf
+-'  1  0  /home/sandro/workspace/kanti-linux/airootfs/etc/systemd/system/getty@tty1.service.d/autologin.conf
+-'  3  0  /home/sandro/workspace/kanti-linux/airootfs/etc/systemd/system/getty@tty1.service.d/autologin.conf
+-'  1  0  /home/sandro/workspace/kanti-linux/airootfs/etc/systemd/system/getty@tty1.service.d/autologin.conf
+-'  22  57  /home/sandro/workspace/kanti-linux/airootfs/root/customize_airootfs.sh
+-'  1  0  /home/sandro/workspace/kanti-linux/airootfs/root/customize_airootfs.sh
+-'  3  0  /home/sandro/workspace/kanti-linux/airootfs/etc/systemd/system/getty@tty1.service.d/autologin.conf
+-'  1  0  /home/sandro/workspace/kanti-linux/airootfs/etc/systemd/system/getty@tty1.service.d/autologin.conf
+-'  3  0  /home/sandro/workspace/kanti-linux/airootfs/etc/systemd/system/getty@tty1.service.d/autologin.conf
+-'  1  0  /home/sandro/workspace/kanti-linux/airootfs/etc/systemd/system/getty@tty1.service.d/autologin.conf
+-'  93  27  /home/sandro/workspace/kanti-linux/pacman.conf
+-'  22  57  /home/sandro/workspace/kanti-linux/airootfs/root/customize_airootfs.sh
+-'  1  0  /home/sandro/workspace/kanti-linux/airootfs/root/customize_airootfs.sh
+-'  3  0  /home/sandro/workspace/kanti-linux/airootfs/etc/systemd/system/getty@tty1.service.d/autologin.conf
+-'  1  0  /home/sandro/workspace/kanti-linux/airootfs/etc/systemd/system/getty@tty1.service.d/autologin.conf
+-'  3  0  /home/sandro/workspace/kanti-linux/airootfs/etc/systemd/system/getty@tty1.service.d/autologin.conf
+-'  1  0  /home/sandro/workspace/kanti-linux/airootfs/etc/systemd/system/getty@tty1.service.d/autologin.conf
+-'  22  57  /home/sandro/workspace/kanti-linux/airootfs/root/customize_airootfs.sh
+-'  1  0  /home/sandro/workspace/kanti-linux/airootfs/root/customize_airootfs.sh
+-'  3  0  /home/sandro/workspace/kanti-linux/airootfs/etc/systemd/system/getty@tty1.service.d/autologin.conf
+-'  1  0  /home/sandro/workspace/kanti-linux/airootfs/etc/systemd/system/getty@tty1.service.d/autologin.conf
+-'  3  0  /home/sandro/workspace/kanti-linux/airootfs/etc/systemd/system/getty@tty1.service.d/autologin.conf
+-'  1  0  /home/sandro/workspace/kanti-linux/airootfs/etc/systemd/system/getty@tty1.service.d/autologin.conf
+-'  22  57  /home/sandro/workspace/kanti-linux/airootfs/root/customize_airootfs.sh
+-'  1  0  /home/sandro/workspace/kanti-linux/airootfs/root/customize_airootfs.sh
+-'  3  0  /home/sandro/workspace/kanti-linux/airootfs/etc/systemd/system/getty@tty1.service.d/autologin.conf
+-'  1  0  /home/sandro/workspace/kanti-linux/airootfs/etc/systemd/system/getty@tty1.service.d/autologin.conf
+-'  3  0  /home/sandro/workspace/kanti-linux/airootfs/etc/systemd/system/getty@tty1.service.d/autologin.conf
+-'  1  0  /home/sandro/workspace/kanti-linux/airootfs/etc/systemd/system/getty@tty1.service.d/autologin.conf
+-'  22  57  /home/sandro/workspace/kanti-linux/airootfs/root/customize_airootfs.sh
+-'  1  0  /home/sandro/workspace/kanti-linux/airootfs/root/customize_airootfs.sh
+-'  3  0  /home/sandro/workspace/kanti-linux/airootfs/etc/systemd/system/getty@tty1.service.d/autologin.conf
+-'  1  0  /home/sandro/workspace/kanti-linux/airootfs/etc/systemd/system/getty@tty1.service.d/autologin.conf
+-'  3  0  /home/sandro/workspace/kanti-linux/airootfs/etc/systemd/system/getty@tty1.service.d/autologin.conf
+-'  1  0  /home/sandro/workspace/kanti-linux/airootfs/etc/systemd/system/getty@tty1.service.d/autologin.conf
+-'  22  57  /home/sandro/workspace/kanti-linux/airootfs/root/customize_airootfs.sh
+-'  1  0  /home/sandro/workspace/kanti-linux/airootfs/root/customize_airootfs.sh
+-'  3  0  /home/sandro/workspace/kanti-linux/airootfs/etc/systemd/system/getty@tty1.service.d/autologin.conf
+-'  1  0  /home/sandro/workspace/kanti-linux/airootfs/etc/systemd/system/getty@tty1.service.d/autologin.conf
+-'  3  0  /home/sandro/workspace/kanti-linux/airootfs/etc/systemd/system/getty@tty1.service.d/autologin.conf
+-'  1  0  /home/sandro/workspace/kanti-linux/airootfs/etc/systemd/system/getty@tty1.service.d/autologin.conf
+-'  22  57  /home/sandro/workspace/kanti-linux/airootfs/root/customize_airootfs.sh
+-'  1  0  /home/sandro/workspace/kanti-linux/airootfs/root/customize_airootfs.sh
+-'  3  0  /home/sandro/workspace/kanti-linux/airootfs/etc/systemd/system/getty@tty1.service.d/autologin.conf
+-'  1  0  /home/sandro/workspace/kanti-linux/airootfs/etc/systemd/system/getty@tty1.service.d/autologin.conf
+-'  3  0  /home/sandro/workspace/kanti-linux/airootfs/etc/systemd/system/getty@tty1.service.d/autologin.conf
+-'  1  0  /home/sandro/workspace/kanti-linux/airootfs/etc/systemd/system/getty@tty1.service.d/autologin.conf
+-'  22  57  /home/sandro/workspace/kanti-linux/airootfs/root/customize_airootfs.sh
+-'  1  0  /home/sandro/workspace/kanti-linux/airootfs/root/customize_airootfs.sh
+-'  3  0  /home/sandro/workspace/kanti-linux/airootfs/etc/systemd/system/getty@tty1.service.d/autologin.conf
+-'  1  0  /home/sandro/workspace/kanti-linux/airootfs/etc/systemd/system/getty@tty1.service.d/autologin.conf
+-'  3  0  /home/sandro/workspace/kanti-linux/airootfs/etc/systemd/system/getty@tty1.service.d/autologin.conf
+-'  1  0  /home/sandro/workspace/kanti-linux/airootfs/etc/systemd/system/getty@tty1.service.d/autologin.conf
+-'  22  57  /home/sandro/workspace/kanti-linux/airootfs/root/customize_airootfs.sh
+-'  1  0  /home/sandro/workspace/kanti-linux/airootfs/root/customize_airootfs.sh
+-'  3  0  /home/sandro/workspace/kanti-linux/airootfs/etc/systemd/system/getty@tty1.service.d/autologin.conf
+-'  1  0  /home/sandro/workspace/kanti-linux/airootfs/etc/systemd/system/getty@tty1.service.d/autologin.conf
+-'  3  0  /home/sandro/workspace/kanti-linux/airootfs/etc/systemd/system/getty@tty1.service.d/autologin.conf
+-'  1  0  /home/sandro/workspace/kanti-linux/airootfs/etc/systemd/system/getty@tty1.service.d/autologin.conf
+-'  22  57  /home/sandro/workspace/kanti-linux/airootfs/root/customize_airootfs.sh
+-'  1  0  /home/sandro/workspace/kanti-linux/airootfs/root/customize_airootfs.sh
+-'  3  0  /home/sandro/workspace/kanti-linux/airootfs/etc/systemd/system/getty@tty1.service.d/autologin.conf
+-'  1  0  /home/sandro/workspace/kanti-linux/airootfs/etc/systemd/system/getty@tty1.service.d/autologin.conf
+-'  3  0  /home/sandro/workspace/kanti-linux/airootfs/etc/systemd/system/getty@tty1.service.d/autologin.conf
+-'  1  0  /home/sandro/workspace/kanti-linux/airootfs/etc/systemd/system/getty@tty1.service.d/autologin.conf
+-'  22  57  /home/sandro/workspace/kanti-linux/airootfs/root/customize_airootfs.sh
+-'  1  0  /home/sandro/workspace/kanti-linux/airootfs/root/customize_airootfs.sh
+-'  3  0  /home/sandro/workspace/kanti-linux/airootfs/etc/systemd/system/getty@tty1.service.d/autologin.conf
+-'  1  0  /home/sandro/workspace/kanti-linux/airootfs/etc/systemd/system/getty@tty1.service.d/autologin.conf
+-'  3  0  /home/sandro/workspace/kanti-linux/airootfs/etc/systemd/system/getty@tty1.service.d/autologin.conf
+-'  1  0  /home/sandro/workspace/kanti-linux/airootfs/etc/systemd/system/getty@tty1.service.d/autologin.conf
+-'  22  57  /home/sandro/workspace/kanti-linux/airootfs/root/customize_airootfs.sh
+-'  1  0  /home/sandro/workspace/kanti-linux/airootfs/root/customize_airootfs.sh
+-'  3  0  /home/sandro/workspace/kanti-linux/airootfs/etc/systemd/system/getty@tty1.service.d/autologin.conf
+
+# Geschichte der Markierungen innerhalb von Dateien (neueste zuerst):
+
+> /home/sandro/workspace/kanti-linux/packages.both
+	"	119	7
+	^	119	8
+	.	119	7
+	+	89	0
+	+	71	0
+	+	119	7
+
+> /home/sandro/workspace/kanti-linux/efiboot/loader/entries/archiso-x86_64-cd.conf
+	"	4	31
+
+> /home/sandro/workspace/kanti-linux/syslinux/archiso_sys64.cfg
+	"	1	0
+	^	9	85
+	.	9	84
+	+	9	84
+
+> /home/sandro/workspace/kanti-linux/syslinux/archiso_sys32.cfg
+	"	8	0
+	^	9	85
+	.	9	84
+	+	9	84
+
+> /home/sandro/workspace/kanti-linux/efiboot/loader/entries/archiso-x86_64-usb.conf
+	"	5	85
+	^	5	86
+	.	5	85
+	+	5	85
+
+> /home/sandro/workspace/kanti-linux/efiboot/loader/loader.conf
+	"	1	0
+
+> /home/sandro/workspace/kanti-linux/syslinux/archiso_pxe64.cfg
+	"	12	0
+
+> /home/sandro/workspace/kanti-linux/syslinux/archiso.cfg
+	"	2	0
+
+> /home/sandro/workspace/kanti-linux/pacman.conf
+	"	91	0
+	.	92	0
+	+	92	0
+	+	92	0
+	+	90	0
+	+	92	17
+	+	92	0
+
+> /home/sandro/workspace/kanti-linux/airootfs/root/customize_airootfs.sh
+	"	22	57
+	^	20	1
+	.	20	0
+	+	5	17
+	+	8	39
+	+	23	37
+	+	20	0
+
+> /home/sandro/workspace/kanti-linux/airootfs/etc/systemd/system/getty@tty1.service.d/autologin.conf
+	"	3	0
