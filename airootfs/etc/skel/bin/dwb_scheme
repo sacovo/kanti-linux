@@ -1,0 +1,6 @@
+#!/bin/sh
+out=$(zenity --file-selection --directory);
+case ${DWB_SCHEME} in
+  magnet)
+    uxterm -e aria2c -d $out ${DWB_URI};;
+esac

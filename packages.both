@@ -68,6 +68,7 @@ aspell-de
 aspell
 base-devel
 chromium
+chromium-pepper-flash
 cython
 device-mapper
 dmenu
@@ -117,3 +118,7 @@ xorg-server-utils
 xorg-xinit
 networkmanager
 cinnamon
+infinality-bundle
+ibfonts-meta-base
+ibfonts-meta-extended
+conky
